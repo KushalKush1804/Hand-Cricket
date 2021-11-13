@@ -274,6 +274,7 @@ public class Playing_Hand_Cricket_Against_Computer
             {
                 System.out.print('\f');
                 System.out.println("Good Bye!");
+                System.out.println("");
                 break;
             }
             
